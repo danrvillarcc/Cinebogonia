@@ -1,0 +1,26 @@
+{
+  "club_name": "Cine Club Bogonia",
+  "pelicula": {
+    "titulo": "El angel Exterminador",
+    "director": "Luis Buñuel",
+    "anio": "1962",
+    "duracion": "102",
+    "sinopsis": "Al finalizar una cena en la mansión de los Nóbile, por razones ineplicables, un grupo de burgueses no puede salir del lugar. Con el paso de los días, la cortesía inicial de los invitados se transforma en el más primitivo instinto por la supervivencia.",
+    "poster_url": "",
+    "video_url": "",
+    "subtitulos_url": "",
+    "pres_titulo": "",
+    "pres_video": "",
+    "subtitulos_idioma": "es"
+  },
+  "funcion": {
+    "fecha": "2026-03-05",
+    "hora": "21:30",
+    "modo_cine": false
+  },
+  "aporte": {
+    "link": "https://link.mercadopago.com.ar/cinebugonia",
+    "texto": "EL aporte es Voluntario"
+  },
+  "historial": []
+}
