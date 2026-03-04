@@ -1,0 +1,24 @@
+{
+  "club_name": "Cine Club - Super Begonia",
+  "pelicula": {
+    "titulo": "El Angel Exterminador",
+    "director": "Luis Buñuel",
+    "anio": "1962",
+    "duracion": "102",
+    "sinopsis": "Al finalizar una cena en la mansión de los Nóbile, por razones ineplicables, un grupo de burgueses no puede salir del lugar. Con el paso de los días, la cortesía inicial de los invitados se transforma en el más primitivo instinto por la supervivencia.",
+    "poster_url": "posters/el-angel-exterminador.jpg",
+    "video_url": "https://archive.org/download/el-angel-exterminador-1962-by-luis-bunuel/El%20%C3%A1ngel%20exterminador%20%201962%2C%20by%20Luis%20Bu%C3%B1uel.mp4",
+    "subtitulos_url": "",
+    "subtitulos_idioma": "es"
+  },
+  "funcion": {
+    "fecha": "2026-03-03",
+    "hora": "23:15",
+    "modo_cine": true
+  },
+  "aporte": {
+    "link": "https://link.mercadopago.com.ar/cinebugonia",
+    "texto": "El aporte es voluntario"
+  },
+  "historial": []
+}
