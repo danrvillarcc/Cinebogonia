@@ -1,0 +1,26 @@
+{
+  "club_name": "Bogonia",
+  "pelicula": {
+    "titulo": "",
+    "director": "",
+    "anio": "",
+    "duracion": "",
+    "sinopsis": "",
+    "poster_url": "",
+    "video_url": "",
+    "subtitulos_url": "",
+    "subtitulos_idioma": "es",
+    "pres_titulo": "",
+    "pres_video": ""
+  },
+  "funcion": {
+    "fecha": "",
+    "hora": "",
+    "modo_cine": false
+  },
+  "aporte": {
+    "link": "",
+    "texto": ""
+  },
+  "historial": []
+}
