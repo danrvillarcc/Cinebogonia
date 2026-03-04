@@ -1,0 +1,38 @@
+{
+  "club_name": "Cine CLub Bugonia",
+  "pelicula": {
+    "titulo": "EL Angel Exterminador",
+    "director": "Luis Buñuel",
+    "anio": "1962",
+    "duracion": "102",
+    "sinopsis": "",
+    "poster_url": "",
+    "video_url": "",
+    "subtitulos_url": "",
+    "pres_titulo": "Buñuel Bogonia y otros asuntos",
+    "pres_video": "",
+    "subtitulos_idioma": "es"
+  },
+  "funcion": {
+    "fecha": "2026-03-04",
+    "hora": "00:00",
+    "modo_cine": false
+  },
+  "aporte": {
+    "link": "https://link.mercadopago.com.ar/cinebugonia",
+    "texto": "El aporte es voluntario"
+  },
+  "historial": [
+    {
+      "id": "el-angel-exterminador-1772592983793",
+      "titulo": "EL Angel Exterminador",
+      "director": "Luis Buñuel",
+      "anio": "1962",
+      "duracion": "102",
+      "fecha_emision": "",
+      "sinopsis": "",
+      "poster_url": "",
+      "archive_url": ""
+    }
+  ]
+}
